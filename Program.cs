@@ -14,3 +14,6 @@ Console.WriteLine($@"abc");
 
 Console.WriteLine($@"Dev A develop");
 Console.WriteLine($@"Dev B develop");
+
+
+Console.WriteLine($@"dev A đang code đã quá");
