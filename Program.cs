@@ -10,3 +10,6 @@ Console.WriteLine($@"Sản phẩm: {JsonSerializer.Serialize(sp)}");
 
 
 Console.WriteLine($@"abc");
+
+
+Console.WriteLine($@"Dev B develop");
